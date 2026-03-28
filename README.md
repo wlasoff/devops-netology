@@ -1,3 +1,3 @@
 # devops-netology
 # fist commit
-# .gitignore do not transfer to GitHub
+# в .gitignore будут игнорироваться все файлы в имени которых есть буквосочетание IGNORE.
